@@ -1,0 +1,78 @@
+body{
+    background-image: linear-gradient(to left, white , lightpink);
+    
+}
+
+h1{
+    font-size:x-large;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+p{
+    font-style: oblique;
+    font-family:(https://fonts.google.com/specimen/Island+Moments)
+    
+}
+
+.style{
+    font-size: x-large;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+dl dd{
+    font-size: medium;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:lighter;
+}
+
+dt dd{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+ul li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:700;
+}
+
+.bloque1{
+    display:inline-block;
+    background-color:violet;
+    width: 200px;
+    height: 200px;
+    z-index: index 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.bloque2{
+    display: inline-block;
+    background-color: rgb(212, 44, 176);
+    width:200px;
+    height:200px;
+    z-index: 2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.bloque3{
+    display: inline-block;
+    background-color:lightcoral;
+    width: 200px;
+    height: 200px;
+    z-index: 3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.bloque4{
+    display: inline-block;
+    background-color:lightcoral;
+    width: 200px;
+    height: 200px;
+    z-index: 3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
